@@ -1,0 +1,168 @@
+body {
+    font-family: "Open Sans", sans-serif;
+   margin: 0px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.headsection{
+    display: flex;
+    padding: 0px 100px ;
+    justify-content: space-between;
+    align-items: center;
+}
+.image1{
+    height: 120px;
+    width: 200px;
+}
+.rightsection{
+    display: flex;
+}
+.rightsection>li{
+   margin-right: 30px;
+}
+.super{
+    background-color:rgb(234, 227, 133);
+}
+.mainsection1{
+    text-align: center;
+    padding: 10px 100px;
+}
+.dream{
+    font-weight: 800px;
+    font-size: 35px;
+    background-color:lightgoldenrodyellow;
+    border-radius: 5px;
+    padding: 5px;
+}
+.button1{
+    background-color:darkorange;
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+}
+.mainsection2{
+    margin: 20px 10%;
+   
+}
+.extra1{
+    text-align: center;
+    padding-top: 60px;
+}
+.image2{
+    border-radius: 5px;
+}
+.mainsection3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 12%;
+    
+}
+.images{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.images .img{
+    border:3px solid antiquewhite;
+   border-radius: 5px;
+   height: 180px;
+    width: 160px;
+}
+.description{
+    width: 400px;
+    align-items: center;
+}
+.mainsection4{
+    text-align: center;
+    padding: 50px 35%;
+    background-color: beige;
+}
+.classes{
+    margin-bottom: 20px;
+    background-color:aliceblue;
+    padding: 10px;
+}
+.teachers{
+   margin: 50px 20%;
+   
+}
+.teachers>h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.rasel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.r1{
+    margin: 2px;
+}
+.rasel>img{
+    border-radius: 5px;
+}
+.m1{
+    margin: 2px;
+}
+.mubarak{
+    margin-top: 30px;
+    display: block;
+    margin-left:0;
+    margin-right:auto;
+    width: 40%;
+}
+.c1{
+    margin: 2px;
+}
+.mam1{
+    margin-top: 30px;
+    display: block;
+    margin-left:0;
+    margin-right:auto;
+    width: 40%;
+}
+.c2{
+    margin: 2px;
+}
+.mam2{
+    margin-top: 30px;
+    display: block;
+    margin-left:0;
+    margin-right:auto;
+    width: 40%;
+}
+.foot{
+    display: flex;
+   margin: 20px 10%;
+   justify-content: space-between;
+   align-items: center;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+}
+.input1{
+    margin-bottom: 5px;
+    width: 200px;
+}
+.message{
+    height: 80px;
+    text-align: center;
+}
+.f1{
+    margin: 3px;
+}
+.final{
+    text-align: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
